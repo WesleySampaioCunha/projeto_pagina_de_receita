@@ -1,0 +1,196 @@
+@charset "UTF-8";
+
+body {
+    background-color: #F2D9D0;
+}
+
+img {
+    width: 550px;
+    height: 250pxpx;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.container {
+    background-color: white;
+    margin: 50px auto;
+    width: 800px;
+    height: 1800px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#titulo-principal {
+    text-align: left;
+    text-decoration: none;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#primeira-estrofe {
+    font-family: "Outfit", sans-serif;
+    font-size: 14px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 25px;
+}
+
+#min-preparato {
+    margin: 0 auto;
+    background-color: #f6e3dc;
+    border: 1px solid #f6e3dc;
+    text-align: left;
+    width: 500px;
+    border-radius: 20px;
+}
+
+#estrofe-tempero {
+    font-family: "Outfit", sans-serif;
+    padding-left: 25px;
+    color: rgb(105, 0, 105);
+}
+
+#min-preparato > ul {
+    padding: 1px;
+    padding-left: 50px;
+    padding-bottom: 15x;
+    text-decoration: none;
+}
+
+#min-preparato > ul > li {
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: rgb(105, 0, 105);
+}
+
+#total, #preparacao, #cozinhar {
+    margin-top: 10px;
+    font-family: "Outfit", sans-serif;
+}
+
+#ingrediente {
+    font-family: "Outfit", sans-serif;
+    padding-left: 25px;
+}
+
+#estrofe-ingrediente {
+    text-align: left;
+    font-size: 1.5rem;
+    padding-left: 70px;
+    padding-right: 25px;
+    color: 8B4513;
+}
+
+#ingrediente > ul {
+    padding-left: 100px;
+}
+
+#ingrediente > ul > li {
+    margin-top: 10px;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#borda-bottom1 {
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    width: 560px;
+}
+
+#instrucoes {
+    font-family: "Outfit", serif, sans-serif;
+}
+
+#estrofe-instrucao {
+    text-align: left;
+    font-size: 2rem;
+    padding-left: 70px;
+    padding-right: 25px;
+    color: #8B4513;
+}
+
+#instrucoes > ol {
+    padding-left: 100px;
+}
+
+#instrucoes > ol > li {
+    margin-top: 2px;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#borda-bottom2 {
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    width: 560px;
+}
+
+#nutrition {
+    font-family: "Outfit", serif, sans-serif;
+}
+
+#estrofe-nutrition {
+    text-align: left;
+    font-size: 1.5rem;
+    padding-left: 70px;
+    padding-right: 30px;
+    color:#8B4513;
+}
+
+#tabela-nutri {
+    text-align: left;
+    font-size: 14px;
+    padding-left: 80px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+}
+
+p#calorias {
+    text-align: right;
+}
+
+#nutrition > p {
+    text-align: left;
+    font-size: 14px;
+    padding-left: 60px;
+    padding-right: 25px;
+}
+
+#caloria  {
+    padding-left: 15px;
+    padding-right: 25px;
+}
+
+
+#nutrition > p {
+    justify-content: space-between;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 25px;
+}
+
+button {
+    margin-top: 25px;
+    border-radius: 30px;
+    background-color: #8B4513;
+}
+
+button:hover {
+    background-color: #F2D9D0;
+}
+
+button > a {
+    color: white;
+    text-decoration: none;
+    font-family: "Outfit", serif, sans-serif;
+}
+
+
+
+a:hover {
+    color: black;
+}
+
